@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Histogram.qml</file>
+        <file>HistogramForm.ui.qml</file>
+        <file>DynamicRect.qml</file>
+        <file>DynamicRectForm.ui.qml</file>
+    </qresource>
+</RCC>
